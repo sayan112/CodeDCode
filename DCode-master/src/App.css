@@ -1,0 +1,11 @@
+*{
+  font-family: sans-serif;
+}
+
+/* Switch */
+
+/* Toggle B */
+input:checked ~ .dot {
+  transform: translateX(140%);
+  background-color: rgb(99, 102, 241);
+}
