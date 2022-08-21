@@ -1,18 +1,62 @@
-Frontend Hosted At https://dcode-contests.netlify.app/
-Backend Hosted At https://dcode-backend.herokuapp.com/
 
-### App Features
-This is an app for competitive programmers for whom it is too difficult to remember many contests timing on various platforms.
-DCode will provide information of various upcoming contests of various platforms like codechef, codeforces, leetcode, atcoder, kick start, hackerearth, hackerrank and many more.
-
-There are filters to find contests by any platform or by timing.
-DCode also provides an online IDE supported by python, c/cpp, java languages.
-
-If any user has any doubt regarding this website or he/she want to contact us, we made a contact page by which they can send their message to us.
+# Hi, I'm Sayan and Sudipta ! 👋 this is CodeDcode 📰
 
 
-### Installation and Run
-1. Fork the app and clone it
-2. Make sure you have nodejs installed on your computer
-3. After cloning the repository open terminal and run command npm install
-4. Start the app using npm run start command
+
+## Features
+
+- This is an app for competitive programmers for whom it is too difficult to remember many contests timing on various platforms.
+- CodeDcode will provide information of various upcoming contests of various platforms like codechef, codeforces, leetcode, atcoder, kick start, hackerearth, hackerrank and many more.
+- There are filters to find contests by any platform or by timing.
+- CodeDcode also provides an online IDE supported by python, c/cpp, java languages which is our upcoming feature 🌼
+- If any user has any doubt regarding this website or anyone want to contact us, we made a contact page by which they can send their message to us. Happy coding ❤️
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://link-to-project
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
+
+
+## Demo
+
+link to demo 👁️
+https://codedcode.netlify.app/
+
+## Screenshots
+
+![App Screenshot](loading )
+![App Screenshot](loading)
+
+## Authors
+
+- [@sayanmaitra](https://github.com/sayan112)
+- [@Sudipta](https://github.com/Sudipta2002)
+
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
