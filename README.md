@@ -5,7 +5,7 @@
 
 ## Features
 
-- This is an app for competitive programmers for whom it is too difficult to remember many contests timing on various platforms.
+- This is an web app for competitive programmers for whom it is too difficult to remember many contests timing on various platforms.
 - CodeDcode will provide information of various upcoming contests of various platforms like codechef, codeforces, leetcode, atcoder, kick start, hackerearth, hackerrank and many more.
 - There are filters to find contests by any platform or by timing.
 - CodeDcode also provides an online IDE supported by python, c/cpp, java languages which is our upcoming feature 🌼
