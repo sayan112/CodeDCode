@@ -46,8 +46,10 @@ https://codedcode.netlify.app/
 
 ## Screenshots
 
-![App Screenshot](loading )
-![App Screenshot](loading)
+![App Screenshot](https://github.com/sayan112/CodeDCode/blob/master/CodeDcode1.png)
+![App Screenshot](https://github.com/sayan112/CodeDCode/blob/master/CodeDcode2.png)
+![App Screenshot](https://github.com/sayan112/CodeDCode/blob/master/CodeDcode3.png)
+![App Screenshot](https://github.com/sayan112/CodeDCode/blob/master/CodeDcode4.png)
 
 ## Authors
 
